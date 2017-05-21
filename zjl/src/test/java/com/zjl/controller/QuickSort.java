@@ -1,6 +1,7 @@
 package com.zjl.controller;
 
 public class QuickSort {
+	//¼Óµã×¢ÊÍ
 
 	public static void quickSort(int[] arry, int left, int right) {
 		int pivot;
